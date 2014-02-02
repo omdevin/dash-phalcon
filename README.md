@@ -5,4 +5,4 @@ dash-phalcon
 
 This docset is to be used with [Dash for Mac](http://kapeli.com/dash).
 
-Based on Phalcon version 1.2.6
+Based on Phalcon version **1.2.6**
