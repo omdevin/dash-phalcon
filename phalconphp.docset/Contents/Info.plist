@@ -12,5 +12,7 @@
 	<true/>
 	<key>DashDocSetFamily</key>
 	<string>dashtoc</string>
+	<key>dashIndexFilePath</key>
+	<string>index.html</string>
 </dict>
 </plist>
