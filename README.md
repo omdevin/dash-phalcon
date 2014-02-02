@@ -15,3 +15,5 @@ Based on Phalcon version **1.2.6**
 	- PHALCON_API_FOLDER: full path where are stored the HTML files (phalcon-php-framework-documentation-latest/api)
 	- HTML_DESTINATION_FOLDER: full path of the target HTML files (phalconphp.docset/Contents/Resources/Documents/api)
 	- SQLITE_FILE: full path of the Dash SQLite file
+
+phalconParser.php uses [simplehtmldom](http://simplehtmldom.sourceforge.net)
